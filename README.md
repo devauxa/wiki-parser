@@ -1,5 +1,5 @@
 # wiki-parser
-Exemple d'parser pour wikipedia en s'inspirant de https://blog.scraperwiki.com/2011/12/how-to-scrape-and-parse-wikipedia/ (Ce projet est utilisé en couple avec https://github.com/alexylem/jarvis/wiki )
+Exemple de parser pour wikipedia en s'inspirant de https://blog.scraperwiki.com/2011/12/how-to-scrape-and-parse-wikipedia/ (Ce projet est utilisé en couple avec https://github.com/alexylem/jarvis/wiki )
 
 # Installation avec Jarvis
 il suffit de rajouter la ligne dans /home/pi/jarvis/jarvis-commands
